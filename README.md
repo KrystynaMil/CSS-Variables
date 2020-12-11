@@ -15,7 +15,7 @@
 The web site is created by `Wes Bos`, allows the user to change the border with of a picture also the user is able to change the blurriness of the picture and change the color of the border and some text in the page title.
 
 ## Screenshots
-![Example screenshot](images/screenShot.png)
+![Example screenshot](https://krystynamil.github.io/CSS-Variables/)
 
 ## Technologies
 * JavaScript
